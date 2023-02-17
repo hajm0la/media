@@ -16,6 +16,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
+logo                     : "/images/ddd.png"
 title                    : "Narayani Foundation Gallery"
 title_separator          : "|"
 name                     : "Narayani Foundation Gallery"
