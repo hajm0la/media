@@ -104,19 +104,19 @@ analytics:
 
 # Site Author
 author:
-  name             : "Arav Sharma"
+  name             : "Narayani Foundation"
   avatar           : "/images/lsd.jpg"
-  bio              : "Threat Researcher"
+  bio              : "Our NGO"
   location         : "United States"
   twitter          : "lsd"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:arav_intel@threatintel.pw
+      url: mailto:NarayaniFoundation@gmail.com
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/threatupdates"
+      url: "https://github.com/NarayaniFoundation"
 # Site Footer
 footer:
   links:
