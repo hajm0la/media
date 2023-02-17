@@ -1,13 +1,9 @@
 # main links
 main:
-  - title: "About"
-    url: https://threatupdates.github.io/
-  - title: "Media Trends"
-    url: https://threatupdates.github.io/media/
-  - title: "Links"
-    url: https://threatupdates.github.io/links/ 
-  - title: "Blog"
-    url: https://threatupdates.github.io/blog/
+  - title: "Home"
+    url: https://hajm0la.github.io/
+  - title: "Gallery"
+    url: https://hajm0la.github.io/media/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
